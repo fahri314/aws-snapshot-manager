@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 function print_help()
 {
 	cat <<-EOF
